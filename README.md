@@ -21,3 +21,7 @@ This repo shows how to use the React [Headless UI](https://headlessui.com/) libr
 ## Resources
 
 - [Documentation](https://headlessui.com/)
+
+## License
+
+- [MIT](LICENSE.md)
