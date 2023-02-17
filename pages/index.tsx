@@ -1,3 +1,9 @@
+import HeadlessUIListbox from '../components/HeadlessUIListbox'
+
 export default function Home() {
-  return <>Home</>
+  return (
+    <>
+      <HeadlessUIListbox />
+    </>
+  )
 }
