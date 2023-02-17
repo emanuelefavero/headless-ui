@@ -2,7 +2,9 @@
 
 This repo shows how to use the React [Headless UI](https://headlessui.com/) library.
 
-> Headless UI is A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- Headless UI is A set of completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+> Note: For more components examples visit the [Headless UI](https://headlessui.com/) website.
 
 ## Getting Started
 
