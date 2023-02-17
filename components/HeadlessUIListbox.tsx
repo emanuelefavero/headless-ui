@@ -2,11 +2,11 @@ import { useState } from 'react'
 import { Listbox } from '@headlessui/react'
 
 const people = [
-  { id: 1, name: 'Durward Reynolds', unavailable: false },
-  { id: 2, name: 'Kenton Towne', unavailable: false },
-  { id: 3, name: 'Therese Wunsch', unavailable: false },
-  { id: 4, name: 'Benedict Kessler', unavailable: true },
-  { id: 5, name: 'Katelyn Rohan', unavailable: false },
+  { id: 1, name: 'Pam Beasley', unavailable: false },
+  { id: 2, name: 'Michael Scott', unavailable: false },
+  { id: 3, name: 'Jim Halpert', unavailable: false },
+  { id: 4, name: 'Dwight Schrute', unavailable: true },
+  { id: 5, name: 'Ryan Howard', unavailable: false },
 ]
 
 // TIP: For a more complete example, see the Headless UI Listbox docs:
