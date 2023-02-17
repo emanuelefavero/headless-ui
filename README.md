@@ -6,6 +6,12 @@ This repo shows how to use the React [Headless UI](https://headlessui.com/) libr
 
 > Note: For more components examples visit the [Headless UI](https://headlessui.com/) website.
 
+## Live Demo
+
+- [https://headless-ui-chi.vercel.app/](https://headless-ui-chi.vercel.app/)
+
+<img src="screenshot.png" alt="screenshot" width="300">
+
 ## Getting Started
 
 - clone the repo and cd into the directory
